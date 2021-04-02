@@ -1,4 +1,4 @@
-### Hi there 👋
+### ![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&text=HELLO&hight=500&fontSize=50&textBg=false)
 ![fritiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=firity&show_icons=true&theme=radical)
 
 
