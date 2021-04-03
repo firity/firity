@@ -1,7 +1,4 @@
 ### ![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&text=HELLO&hight=500&fontSize=50&textBg=false)
-![fritiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=firity&show_icons=true&theme=radical)
-
-
 
 <!--
 **firity/firity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-🌱 I’m currently learning HTML,CSS,JAVA SCRIPT
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![fritiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=firity&show_icons=true&theme=radical)
+
+
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
 * <a href="https://twitter.com/FRITIY">
