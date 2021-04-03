@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </a>
 
 * <a href="https://www.linkedin.com/in/FIREWYNI/">
-  <img align="left" alt="FIREWYNI's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="firewyni getahun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 * **[GMAIL](firewynigetahun@gmail.com)**
