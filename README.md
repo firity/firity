@@ -23,6 +23,8 @@ Here are some ideas to get you started:
   <img align="left" alt="FRITIY| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-* **[LINKENDIN](https://be.linkedin.com/in/firewyni-getahun-31a6501b3)**
+* <a href="https://www.linkedin.com/in/FIREWYNI/">
+  <img align="left" alt="FIREWYNI's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 * **[GMAIL](firewynigetahun@gmail.com)**
