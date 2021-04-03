@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+
+* **[TWITTER](https://twitter.com/fritiy)**
+
+* **[LINKENDIN](https://be.linkedin.com/in/firewyni-getahun-31a6501b3)**
+
+* **[GMAIL](firewynigetahun@gmail.com)**
