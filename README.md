@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 -->
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
-* **[TWITTER](https://twitter.com/fritiy)**
+* <a href="https://twitter.com/FRITIY">
+  <img align="left" alt="FRITIY| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
 * **[LINKENDIN](https://be.linkedin.com/in/firewyni-getahun-31a6501b3)**
 
