@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img align="left" alt="FRITIY| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-* <a href="https://www.linkedin.com/in/FIREWYNI/">
+* <a href="https://www.linkedin.com/in/firewyni getahun/">
   <img align="left" alt="firewyni getahun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
