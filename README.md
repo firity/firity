@@ -2,9 +2,9 @@
 
 
 
-###  🔭 I’m currently living in:BRUSSELS
-###  🌱 I’m currently learning:HTML,CSS,JAVA SCRIPT
-###  🤔 I’m looking for help with:CODING
+###  🔭 I’m currently living in: BRUSSELS
+###  🌱 I’m currently learning: HTML,CSS,JAVA SCRIPT
+###  🤔 I’m looking for help with: CODING
 ###  ⚡ Quote inspired me: “Be the change that you wish to see in the world.”  ― Mahatma Gandhi
                
 
