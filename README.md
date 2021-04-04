@@ -1,19 +1,13 @@
 ### ![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&text=HELLO&hight=500&fontSize=50&textBg=false)
 
-<!--
-**firity/firity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
--🌱 I’m currently learning HTML,CSS,JAVA SCRIPT
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently living in BRUSSELS
+- 🌱 I’m currently learning HTML,CSS,JAVA SCRIPT
+- 🤔 I’m looking for help with CODING
+- ⚡ Quote inspired me: “Be the change that you wish to see in the world.”
+                ― Mahatma Gandhi
+
 ![fritiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=firity&show_icons=true&theme=radical)
 
 
