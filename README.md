@@ -5,8 +5,8 @@
 ###  🔭 I’m currently living in BRUSSELS
 ###  🌱 I’m currently learning HTML,CSS,JAVA SCRIPT
 ###  🤔 I’m looking for help with CODING
-###  ⚡ Quote inspired me: “Be the change that you wish to see in the world.”
-                ― Mahatma Gandhi
+###  ⚡ Quote inspired me: “Be the change that you wish to see in the world.”  ― Mahatma Gandhi
+               
 
 ![fritiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=firity&show_icons=true&theme=radical)
 
