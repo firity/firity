@@ -10,7 +10,7 @@
    ![js](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
    ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ###  🤔 I’m looking for help with: 
-###   Ccoding
+###   Coding
 ###  ⚡ Quote inspired me: 
 ###   “Be the change that you wish to see in the world.”  ― Mahatma Gandhi
                
